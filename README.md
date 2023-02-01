@@ -1,9 +1,7 @@
 <h3>Olá, eu sou a Daniella!</h3>
-<h5>Estou cursando Análise e Desenvolvimento em Sistemas.<br>
-Gosto muito de aprender coisas novas e compartilhar conhecimento<br>
-Quero avançar na linguagem Java e para isso estou me dedicando em lógica de programação.<br>
-Abaixo você verá um breve resumo das linguagens e ferramentas utilizadas.<br>
-Vale lembrar que meu conhecimento é nível básico, continuarei buscando avançar para me aperfeiçoar. </h5>
+<h5>Estou cursando Análise e Desenvolvimento em Sistemas(2º semestre).<br>
+Quero avançar na linguagem Java e estou aprendendo lógica de programação.<br>
+Nível: Básico</h5>
 
 ##
 <div style="display: inline_block">
@@ -18,14 +16,13 @@ Vale lembrar que meu conhecimento é nível básico, continuarei buscando avanç
  <h5>Cloud</h5>
  <img align="center" alt="DaniC#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
 
-  ##
+ 
 <div style="display: inline_block"> 
 <h5>IDE utilizadas:</h5> 
  <img align="center" alt="DaniC#" height="30" width="65" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
  <img align="center" alt="DaniC#" height="30" width="80" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  
+
  ##
- 
 <div style="display: inline_block">
 <h5> Você pode me encontrar...</h5>
 <a href= "https://www.linkedin.com/in/adaniellasantana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
