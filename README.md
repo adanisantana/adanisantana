@@ -1,6 +1,6 @@
 <h3>Olá, eu sou a Daniella!</h3>
 <h5>Estou cursando Análise e Desenvolvimento em Sistemas.<br>
-Quero avançar na linguagem Java e estou aprendendo lógica de programação.<br>
+Atualmente, tenho interesse em avançar na linguagem Java e estou aprendendo lógica de programação.<br>
 Nível: Básico</h5>
 
 ##
