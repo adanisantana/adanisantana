@@ -15,7 +15,7 @@ Vale lembrar que meu conhecimento é nível básico, continuarei buscando avanç
 </div>
 
 <div style ="display: inline_block">
- <h5>Cloud<h5>
+ <h5>Cloud</h5>
  <img align="center" alt="DaniC#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
 
   ##
