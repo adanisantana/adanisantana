@@ -1,17 +1,29 @@
 <h3>Olá, eu sou a Daniella!</h3>
 <h5>Estou cursando Análise e Desenvolvimento em Sistemas.<br>
-Gosto de aprender e realizo alguns projetos para me desenvolver. <br>
-Quero avançar na linguagem Java e para isso estou me dedicando em lógica de programação.<br></h5>
+Gosto muito de aprender coisas novas e compartilhar conhecimento<br>
+Quero avançar na linguagem Java e para isso estou me dedicando em lógica de programação.<br>
+Abaixo você verá um breve resumo das linguagens e ferramentas utilizadas.<br>
+Vale lembrar que meu conhecimento é nível básico, continuarei buscando avançar para me aperfeiçoar. </h5>
 
 ##
 <div style="display: inline_block">
-<h5>Conhecimento básico em:</h5>
+<h5>Linguagens de Programação:</h5>
 <img align="center" alt="DaniC#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="center" alt="Danisql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">          
 <img align="center" alt="Danijava" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">          
 <img align="center" alt="Danijava" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
 </div>
- 
+
+<div style ="display: inline_block">
+ <h5>Cloud<h5>
+ <img align="center" alt="DaniC#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+
+  ##
+<div style="display: inline_block"> 
+<h5>IDE utilizadas:</h5> 
+ <img align="center" alt="DaniC#" height="30" width="65" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+ <img align="center" alt="DaniC#" height="30" width="80" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  
  ##
  
 <div style="display: inline_block">
@@ -20,8 +32,10 @@ Quero avançar na linguagem Java e para isso estou me dedicando em lógica de pr
 
  
  
-   
-   
+
+ 
+ 
+    
 <!--
 **adanisantana/adanisantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
