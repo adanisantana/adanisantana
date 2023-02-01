@@ -5,11 +5,8 @@
   <li>Recentemente terminei um curso da FAT de Azure DP-900.</li><br>
    <li>Tenho conhecimentos em metodologias como Kanban, Scrum. </li></h6>
 </ul>
-<h4>No momento estou aprendendo:<h4>
- <ul> 
-  <h6><li>Java (nível básico)</li><br>
-   <li> Lógica de Programação na CS50 (Fundação Estudar)</li></h6><br>
- </ul>
+<!-- colocar aqui as linguagens -->
+
    
    
 <!--
