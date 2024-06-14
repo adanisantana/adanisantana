@@ -1,5 +1,5 @@
 <h3>Olá, eu sou a Daniella!</h3>
-<h5>Estou cursando Análise e Desenvolvimento em Sistemas.<br>
+<h5>Estou cursando Análise e Desenvolvimento em Sistemas FullStack, meu interesse principal é na linguagem Python.<br>
 
  
 
