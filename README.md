@@ -1,7 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+seja+bem+vinda(o)!+;Meu+nome+%C3%A9+Daniella." alt="Typing SVG" /></a>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adanisantana&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adanisantana&layout=donut)](https://github.com/adanisantana/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adanisantana" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adanisantana&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **adanisantana/adanisantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
