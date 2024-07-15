@@ -1,13 +1,12 @@
-<h3>Olá, eu sou a Daniella!</h3>
-<h5>Estou cursando Análise e Desenvolvimento em Sistemas FullStack, meu interesse principal é na linguagem Python.<br>
 
+<br>
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adanisantana&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adanisantana&langs_count=8)
  
 
- 
-
- 
- 
-    
 <!--
 **adanisantana/adanisantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
